@@ -1,5 +1,4 @@
-{
-  "requests": [
+
     {
       "id": 1,      
       "type": "bug", 
@@ -28,5 +27,3 @@
       "description": "Solicitação concluída",
       "userName": "Ezequiel"
     }
-  ]
-}
