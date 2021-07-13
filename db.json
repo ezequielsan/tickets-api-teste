@@ -1,0 +1,30 @@
+{
+  {
+    "id": 1,      
+    "type": "bug", 
+    "title": "Não consigo ver estoque",
+    "description": "Não estou conseguindo ver estoque de produtos",
+    "userName": "Maria"
+  },
+  {
+    "id": 2,      
+    "type": "correction", 
+    "title": "Erro em preços",
+    "description": "Não estou conseguindo ver preços",
+    "userName": "João"
+  },
+  {
+    "id": 3,      
+    "type": "news",
+    "title": "preciso de uma nova funcionalidade",
+    "description": "Preciso de uma funcionalidade de emitir relatórios semanalmente",
+    "userName": "Chico"
+  },
+  {
+    "id": 4,      
+    "type": "completed", 
+    "title": "Essa aqui ja foi feita",
+    "description": "Solicitação concluída",
+    "userName": "Ezequiel"
+  }
+}
