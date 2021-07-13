@@ -27,6 +27,27 @@
       "title": "Essa aqui ja foi feita",
       "description": "Solicitação concluída",
       "userName": "Ezequiel"
+    },
+    {
+      "id": 5,      
+      "type": "correction", 
+      "title": "Erro em preços",
+      "description": "Não estou conseguindo ver preços",
+      "userName": "José"
+    },
+    {
+      "id": 6,      
+      "type": "news",
+      "title": "preciso de uma nova funcionalidade",
+      "description": "Preciso de uma funcionalidade de emitir relatórios semanalmente",
+      "userName": "Sara"
+    },
+    {
+      "id": 7,      
+      "type": "completed", 
+      "title": "Essa aqui ja foi feita",
+      "description": "Solicitação concluída",
+      "userName": "Gabriel"
     }
   ]
 }
